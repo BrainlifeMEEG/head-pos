@@ -78,3 +78,7 @@ This App is still private on Brainlife.
 ## Output
 
 The output file is `.pos` file.
+
+## Citation
+
+Hayashi, S., Caron, B.A., Heinsfeld, A.S. et al. brainlife.io: a decentralized and open-source cloud platform to support neuroscience research. Nat Methods 21, 809–813 (2024). https://doi.org/10.1038/s41592-024-02237-2
