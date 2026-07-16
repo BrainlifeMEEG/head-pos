@@ -18,5 +18,5 @@ set -x
 mkdir -p out_dir
 
 # Run the actual python code
-singularity exec docker://brainlife/mne:0.23dev python3 head_pos.py
+singularity exec docker://brainlife/mne:0.23dev python3 main.py
 
